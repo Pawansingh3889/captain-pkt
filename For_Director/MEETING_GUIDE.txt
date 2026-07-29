@@ -1,0 +1,28 @@
+FOR DIRECTOR (Personal Meeting)
+================================
+
+ONLY APPROACH AFTER DANNY APPROVES THE PROJECT
+
+BRING:
+1. Proposal_Short_Version.docx — executive summary
+2. Copernus_Future_Goals.docx — shows long-term vision
+3. Copernus_Data_Transformation_Proposal.docx — full business case
+4. Pawan_CV_Copernus_2026.docx — show qualifications
+
+PITCH TO DIRECTOR (2 minutes):
+"Danny approved a proof of concept for a despatch priority
+dashboard. The data to improve our operations already exists
+in SQL Server — nobody is using it. I have the qualifications
+to extract value from it: MSc Data Analytics, Power BI
+certification, and 12 months on the factory floor.
+
+The company tried to hire an IT person for this but the
+vacancy wasn't filled. I can do this work while continuing
+my operational responsibilities.
+
+Here is a 10-point plan covering short, medium, and long-term
+improvements — from checkweigher integration to predictive
+yield modelling."
+
+GOAL: Get director buy-in for a permanent data role.
+This conversation happens AFTER the proof of concept shows results.

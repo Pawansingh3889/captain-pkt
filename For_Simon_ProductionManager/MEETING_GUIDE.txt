@@ -1,0 +1,30 @@
+FOR SIMON (Production Manager)
+================================
+
+PURPOSE: Get his support before the Danny meeting
+
+WHEN: Before Monday meeting — during a quiet moment on the floor
+
+WHAT TO SAY:
+"Simon, I have been working on a proposal to automate some
+of the reporting we do in Excel — plan attainment, yield
+tracking. I have a meeting with Danny on Monday. Would you
+be supportive if I worked on this during quieter periods?"
+
+WHY SIMON MATTERS:
+- He currently does plan attainment manually in Excel
+- Your proposal automates his work — he needs to see this
+  as helping him, not replacing him
+- If he supports you, Danny is more likely to approve
+- He controls your shift schedule — you need his flexibility
+
+DOCUMENT:
+- Proposal_Short_Version.docx — show him the one-pager
+- Emphasise: "This automates the Excel work you do every day.
+  You would get the same data without spending 30 minutes
+  compiling it."
+
+DO NOT:
+- Make him feel his job is threatened
+- Go over his head without telling him first
+- Ask for time off — ask for flexibility during quiet periods

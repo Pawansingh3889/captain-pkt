@@ -1,0 +1,39 @@
+FOR DANNY STUBBINS (Factory Manager)
+=====================================
+
+PRINT AND BRING TO MONDAY MEETING:
+1. Proposal_Short_Version.docx — hand him this first
+2. Copernus_Future_Goals.docx — show briefly, leave copy if interested
+3. Copernus_Data_Transformation_Proposal.docx — ONLY if he wants full detail
+
+TALKING POINTS (6 minutes total):
+
+1. OPEN (30 sec):
+   "Danny, in our February interview you mentioned the despatch
+   use-by date issue is a real IT problem. I have a plan to fix it."
+
+2. THE PROBLEM (1 min):
+   "Despatch uses planned use-by dates. Actual batch dates differ.
+   QA concessions needed. The data to fix this is in SQL Server."
+
+3. THE SOLUTION (2 min):
+   "A dashboard connecting batch codes to actual use-by dates.
+   Despatch sees what expires first. No more date mismatches."
+
+4. WHAT ELSE (2 min):
+   Show Future Goals briefly — 10 initiatives.
+   "I want to prove the despatch dashboard works first."
+
+5. WHAT I NEED (30 sec):
+   "Read-only SQL Server access from Paul, Power BI on one PC,
+   1-2 hours a day. Two-week proof of concept."
+
+6. CLOSE:
+   "Can I start the proof of concept next week?"
+
+DO NOT SAY:
+- Visa or sponsorship
+- Salary or job title
+- "I want a data analyst role"
+- The unfilled IT vacancy
+- Anything about leaving the UK

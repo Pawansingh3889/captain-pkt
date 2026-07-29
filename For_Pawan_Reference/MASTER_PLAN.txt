@@ -1,0 +1,62 @@
+CAPTAIN PKT — MASTER PLAN
+==========================
+
+SEQUENCE OF EVENTS:
+
+TODAY (Thursday 20 March):
+[x] Email Megan — request Monday meeting with Danny
+    Attach: Proposal_Short_Version.docx only
+
+FRIDAY 21 March:
+[ ] Talk to Simon — get his support
+    Show: Proposal_Short_Version.docx
+    Message: "This automates your Excel reporting"
+
+MONDAY 24 March:
+[ ] Meet Danny — present the despatch dashboard proposal
+    Bring: Short proposal + Future Goals (printed)
+    Duration: 15-20 minutes
+    Goal: Get approval for 2-week proof of concept
+    Goal: Get read-only SQL Server access via Paul
+
+MONDAY AFTERNOON:
+[ ] Talk to Paul (IT) — offer to help with Python migration
+    Message: "Danny approved a data project. Can I get read-only
+    SQL Server access? I can help with the Python work you
+    are planning."
+
+WEEK OF 24-28 March:
+[ ] Start proof of concept if approved
+    - Get SQL Server access
+    - Install Power BI Desktop
+    - Map database schema
+    - Build despatch priority dashboard prototype
+
+WEEK OF 31 March - 4 April:
+[ ] Show prototype to Danny and despatch team
+[ ] Collect feedback
+[ ] If successful — ask Megan about permanent role
+
+APRIL:
+[ ] Meet Megan — discuss permanent data analyst role
+[ ] She has CoS process started — discuss sponsorship
+[ ] Meet Director — present results and long-term vision
+
+MAY (before visa expires):
+[ ] If role confirmed — Megan processes visa sponsorship
+[ ] If not confirmed — switch to remote job plan (Upwork etc)
+
+DOCUMENTS IN THIS FOLDER:
+- Proposal_Short_Version.docx — 1-page pitch
+- Copernus_Data_Transformation_Proposal.docx — full business case
+- Copernus_Future_Goals.docx — 10 initiatives
+- Technical_Blueprint.docx — SQL queries, implementation steps
+- Training_Goals.docx — week-by-week Python plan
+- Pawan_CV_Copernus_2026.docx — updated CV
+
+BACKUP PLAN (if Copernus doesn't work out):
+- Upwork profile ready — need connects
+- Fiverr + PeoplePerHour — not registered yet
+- Remote job applications — CV updated
+- Portfolio website — not built yet
+- India return — exit checklist prepared

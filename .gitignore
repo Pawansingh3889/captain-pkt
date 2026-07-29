@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+
+# Bundled archive of this repo's own contents
+Captain_PKT_Documents.zip
+
+__pycache__/
+*.pyc
+.DS_Store
